@@ -15,5 +15,7 @@ function sayHiToGrandma(string){
   let string3=string.toLowerCase()
   if(string==="I love you, Grandma."){
     return "I love you, too."
-  }else if()
+  }else if(string===string2){
+    return "YES INDEED!"
+  }
 }
